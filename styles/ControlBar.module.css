@@ -1,0 +1,8 @@
+.controlBar{
+flex-grow: 1;
+width:50%;
+height:40%;
+border-style:solid;
+border-radius:10px;
+
+}
